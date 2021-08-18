@@ -1,0 +1,14 @@
+{
+  "name": "jest_testing",
+  "version": "1.0.0",
+  "description": "Testing Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Digvijay singh",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
